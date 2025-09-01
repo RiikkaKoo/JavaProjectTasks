@@ -15,20 +15,12 @@ public class Customer {
         return id;
     }
 
-    public static void resetCount() {
-        count = 0;
-    }
-
     public long getStartTime() {
         return startTime;
     }
 
     public long getEndTime() {
         return stopTime;
-    }
-
-    public void setId(int id) {
-        this.id = id;
     }
 
     public void setStartTime(long startTime) {
