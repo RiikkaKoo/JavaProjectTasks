@@ -4,7 +4,9 @@
     <modules>
       <module fileurl="file://$PROJECT_DIR$/JavaProjectTasks.iml" filepath="$PROJECT_DIR$/JavaProjectTasks.iml" />
       <module fileurl="file://$PROJECT_DIR$/Moduuli1.1/Moduuli1.1.iml" filepath="$PROJECT_DIR$/Moduuli1.1/Moduuli1.1.iml" />
-      <module fileurl="file://$PROJECT_DIR$/Moduuli1.1/Task1.1.1/Task1.1.1.iml" filepath="$PROJECT_DIR$/Moduuli1.1/Task1.1.1/Task1.1.1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Moduuli1.1/Task1.1.3/Task1.1.3.iml" filepath="$PROJECT_DIR$/Moduuli1.1/Task1.1.3/Task1.1.3.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Moduuli1.1/Task1.1.4/Task1.1.4.iml" filepath="$PROJECT_DIR$/Moduuli1.1/Task1.1.4/Task1.1.4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Moduuli1.1/Task1.1.5and1.1.6/Task1.1.5and1.1.6.iml" filepath="$PROJECT_DIR$/Moduuli1.1/Task1.1.5and1.1.6/Task1.1.5and1.1.6.iml" />
     </modules>
   </component>
 </project>
